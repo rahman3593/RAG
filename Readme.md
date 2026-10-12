@@ -78,7 +78,7 @@ python-dotenv
 Install packages from the requirements file:
 
 ```powershell
-uv pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 > **Note:** `uv pip install -r requirements.txt` is the recommended approach for installing dependencies from a requirements file.
