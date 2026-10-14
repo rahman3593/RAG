@@ -5,6 +5,6 @@ build/
 dist/
 wheels/
 *.egg-info
-
+notebooks/chroma_db/
 # Virtual environments
 .venv
